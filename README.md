@@ -10,5 +10,5 @@ In This Code You have to Consider:
 
 
 
-![FINAL SUDOKU AFTER EXECUTION]("img/sudoku 2.png")
+![FINAL SUDOKU AFTER EXECUTION]("img/sudoku2.png")
 
