@@ -6,9 +6,9 @@ In This Code You have to Consider:
   - Other cells are filled with numbers 1 to 9
   
 
-![INITIAL IMAGE BEFORE OPERATION](img/sudoku1.jpg)
+![INITIAL IMAGE BEFORE OPERATION](img/sudoku1.png)
 
 
 
-![FINAL SUDOKU AFTER EXECUTION](./img/sudoku2.jpg)
+![FINAL SUDOKU AFTER EXECUTION]("img/sudoku 2.png")
 
